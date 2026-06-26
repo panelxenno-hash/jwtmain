@@ -205,7 +205,7 @@ def process_token(uid, password):
                 mssg= {
                     "status_code":response.status_code,
                     "server":region ,
-                    "credits": "https://great.thug4ff.com/",
+                    "credits": "https://t.me/xeno_community",
                     "token": token,
                     "token_access" : game_data.access_token,
                     "open_id":game_data.open_id,
